@@ -1,0 +1,4 @@
+script helloworld
+function main()
+  basic -> show string("Hello World", 150)
+end function
