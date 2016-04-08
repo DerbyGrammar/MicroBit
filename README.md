@@ -5,7 +5,7 @@ I am openly having Pull Requests they will be tested. But will be added. If your
 ##Ideas
 - [x] Hello World
 - [x] Happy or Sad
-- [ ] Happy Birthday
+- [ ] Happy Birthday (Song)
 - [ ] 8 Ball
 - [ ] Love Meter
 - [ ] Guess the number
