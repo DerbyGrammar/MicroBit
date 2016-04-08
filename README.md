@@ -3,6 +3,6 @@ A collection of Microbits programs. For Mr.Smith
 ##Pull Requests
 I am openly having Pull Requests they will be tested. But will be added. If your code is accepted, your name will be added below!
 ##Ideas
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+* Test0
+* Test1
+* Test2
