@@ -9,3 +9,6 @@ I am openly having Pull Requests they will be tested. But will be added. If your
 - [ ] 8 Ball
 - [ ] Love Meter
 - [ ] Guess the number
+- [ ] Truth or Dare
+- [ ] Score Counter
+- [ ] Temperature (#arduinomasterrace)
