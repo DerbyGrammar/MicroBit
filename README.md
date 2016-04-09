@@ -12,7 +12,7 @@ A collection of Microbits programs.
 - [x] Temperature (#arduinomasterrace)
 - [x] Cake or Death
 - [x] Heart <3
-- [ ] Blink
+- [x] Blink
 - [ ] Die Roll
 - [ ] Compass
 - [ ] Pong
