@@ -10,3 +10,18 @@ A collection of Microbits programs.
 - [ ] Truth or Dare
 - [x] Score Counter
 - [x] Temperature (#arduinomasterrace)
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
