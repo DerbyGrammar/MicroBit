@@ -13,7 +13,7 @@ A collection of Microbits programs.
 - [x] Cake or Death
 - [x] Heart <3
 - [x] Blink
-- [ ] Die Roll - Shake
+- [x] Die Roll - Shake
 - [ ] Die Roll - Button
 - [ ] Compass
 - [ ] Pong
