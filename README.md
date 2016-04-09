@@ -17,7 +17,7 @@ A collection of Microbits programs.
 - [ ] Compass
 - [ ] Pong
 - [ ] Fake Wifi
-- [ ] 
+- [ ] Snake
 - [ ] 
 - [ ] 
 - [ ] 
