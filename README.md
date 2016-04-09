@@ -10,5 +10,5 @@ I am openly having Pull Requests they will be tested. But will be added. If your
 - [ ] Love Meter
 - [ ] Guess the number
 - [ ] Truth or Dare
-- [ ] Score Counter
+- [x] Score Counter
 - [x] Temperature (#arduinomasterrace)
