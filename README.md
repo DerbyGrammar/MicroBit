@@ -11,7 +11,7 @@ A collection of Microbits programs.
 - [x] Score Counter
 - [x] Temperature (#arduinomasterrace)
 - [ ] Cake or Death
-- [ ] Heart <3
+- [x] Heart <3
 - [ ] Blink
 - [ ] Die Roll
 - [ ] Compass
