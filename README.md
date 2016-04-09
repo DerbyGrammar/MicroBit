@@ -18,4 +18,6 @@ A collection of Microbits programs.
 - [ ] Pong
 - [ ] Fake Wifi
 - [ ] Snake
+- [ ] Flashlight - Toggle
+- [ ] Flashlight - Momentary
 Add more ideas.
