@@ -18,3 +18,4 @@ A collection of Microbits programs.
 - [ ] Pong
 - [ ] Fake Wifi
 - [ ] Snake
+Add more ideas.
