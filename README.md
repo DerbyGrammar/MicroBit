@@ -13,11 +13,10 @@ A collection of Microbits programs.
 - [x] Cake or Death
 - [x] Heart <3
 - [x] Blink
-- [ ] Die Roll
+- [ ] Die Roll - Shake
+- [ ] Die Roll - Button
 - [ ] Compass
 - [ ] Pong
 - [ ] Fake Wifi
 - [ ] Snake
-- [ ] Flashlight - Toggle
-- [ ] Flashlight - Momentary
 Add more ideas.
