@@ -11,4 +11,4 @@ I am openly having Pull Requests they will be tested. But will be added. If your
 - [ ] Guess the number
 - [ ] Truth or Dare
 - [ ] Score Counter
-- [ ] Temperature (#arduinomasterrace)
+- [x] Temperature (#arduinomasterrace)
