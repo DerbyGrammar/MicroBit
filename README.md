@@ -14,7 +14,7 @@ A collection of Microbits programs.
 - [x] Heart <3
 - [x] Blink
 - [x] Die Roll - Shake
-- [ ] Die Roll - Button
+- [x] Die Roll - Button
 - [ ] Compass
 - [ ] Pong
 - [ ] Fake Wifi
