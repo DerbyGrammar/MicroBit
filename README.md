@@ -6,7 +6,7 @@ I am openly having Pull Requests they will be tested. But will be added. If your
 - [x] Hello World
 - [x] Happy or Sad
 - [ ] Happy Birthday (Song)
-- [ ] 8 Ball
+- [x] 8 Ball
 - [ ] Love Meter
 - [ ] Guess the number
 - [ ] Truth or Dare
