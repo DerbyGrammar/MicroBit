@@ -10,7 +10,7 @@ A collection of Microbits programs.
 - [ ] Truth or Dare
 - [x] Score Counter
 - [x] Temperature (#arduinomasterrace)
-- [ ] Cake or Death
+- [x] Cake or Death
 - [x] Heart <3
 - [ ] Blink
 - [ ] Die Roll
