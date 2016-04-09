@@ -1,5 +1,5 @@
 # MicroBit
-A collection of Microbits programs. For Mr.Smith
+A collection of Microbits programs.
 ##Ideas
 - [x] Hello World
 - [x] Happy or Sad
