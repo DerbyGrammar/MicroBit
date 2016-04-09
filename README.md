@@ -5,7 +5,7 @@ A collection of Microbits programs.
 - [x] Happy or Sad
 - [ ] Happy Birthday (Song)
 - [x] 8 Ball
-- [ ] Love Meter
+- [x] Love Meter
 - [ ] Guess the number
 - [ ] Truth or Dare
 - [x] Score Counter
