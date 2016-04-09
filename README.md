@@ -6,7 +6,7 @@ A collection of Microbits programs.
 - [ ] Happy Birthday (Song)
 - [x] 8 Ball
 - [x] Love Meter
-- [ ] Guess the number
+- [x] Guess the number
 - [ ] Truth or Dare
 - [x] Score Counter
 - [x] Temperature (#arduinomasterrace)
