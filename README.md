@@ -7,7 +7,7 @@ A collection of Microbits programs.
 - [x] 8 Ball
 - [x] Love Meter
 - [x] Guess the number
-- [ ] Truth or Dare
+- [x] Truth or Dare
 - [x] Score Counter
 - [x] Temperature (#arduinomasterrace)
 - [x] Cake or Death
