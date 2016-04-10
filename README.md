@@ -15,7 +15,7 @@ A collection of Microbits programs.
 - [x] Blink
 - [x] Die Roll - Shake
 - [x] Die Roll - Button
-- [ ] Compass
+- [x] Compass
 - [ ] Pong
 - [ ] Fake Wifi
 - [ ] Snake
