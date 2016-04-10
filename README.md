@@ -1,6 +1,6 @@
 # MicroBit
 A collection of Microbits programs.
-##Ideas
+##Projects
 - [x] Hello World
 - [x] Happy or Sad
 - [ ] Happy Birthday (Song)
@@ -19,4 +19,4 @@ A collection of Microbits programs.
 - [ ] Pong
 - [ ] Fake Wifi
 - [ ] Snake  
-Add more ideas.
+Add more projects.
