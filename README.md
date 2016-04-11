@@ -17,6 +17,10 @@ A collection of Microbits programs.
 - [x] Die Roll - Button
 - [x] Compass
 - [x] Pong (This took ages!)
+<<<<<<< HEAD
 - [x] Fake Wifi
+=======
+- [ ] Fake Wifi [See why I haven't done it](https://twitter.com/ThorinDev/status/719518261205995522)
+>>>>>>> 093cd80ab8704c9944d34eb2a05aa931255960da
 - [ ] Snake  
 Add more projects.
