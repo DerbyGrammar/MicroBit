@@ -16,7 +16,7 @@ A collection of Microbits programs.
 - [x] Die Roll - Shake
 - [x] Die Roll - Button
 - [x] Compass
-- [ ] Pong
+- [x] Pong (This took ages!)
 - [ ] Fake Wifi
 - [ ] Snake  
 Add more projects.
