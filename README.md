@@ -3,7 +3,7 @@ A collection of Microbits programs.
 ##Projects
 - [x] Hello World
 - [x] Happy or Sad
-- [ ] Happy Birthday (Song)
+- [x] Happy Birthday (Song)
 - [x] 8 Ball
 - [x] Love Meter
 - [x] Guess the number
