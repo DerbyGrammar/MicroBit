@@ -18,5 +18,5 @@ A collection of Microbits programs.
 - [x] Compass
 - [x] Pong (This took ages!)
 - [x] Fake Wifi [See why I haven't done it](https://twitter.com/ThorinDev/status/719518261205995522)
-- [ ] Snake  
+- [ ] Snake; There is a source code aviablabe online, I can't get it to compile though.
 Add more projects.
