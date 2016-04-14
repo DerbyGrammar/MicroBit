@@ -1,6 +1,7 @@
 # MicroBit
 A collection of Microbits programs.
 ##Projects
+###Add more projects.
 - [x] Hello World
 - [x] Happy or Sad
 - [x] Happy Birthday (Song)
@@ -19,4 +20,3 @@ A collection of Microbits programs.
 - [x] Pong (This took ages!)
 - [x] Fake Wifi [See why I haven't done it](https://twitter.com/ThorinDev/status/719518261205995522)
 - [ ] Snake; There is a source code online, I can't get it to compile though.
-###Add more projects.
