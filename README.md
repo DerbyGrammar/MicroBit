@@ -1,5 +1,5 @@
 # MicroBit
-A collection of Microbits programs.
+A collection of Microbits programs. These were made by me (Chris)
 ##Projects
 ###Add more projects.
 - [x] Hello World
