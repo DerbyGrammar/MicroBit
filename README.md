@@ -13,6 +13,7 @@ A collection of Microbits programs. These were made by me (Chris)
 - [x] Temperature (#arduinomasterrace)
 - [x] Cake or Death
 - [x] Heart <3
+- [ ] Flashing Heart
 - [x] Blink
 - [x] Die Roll - Shake
 - [x] Die Roll - Button
@@ -21,3 +22,4 @@ A collection of Microbits programs. These were made by me (Chris)
 - [x] Toggle States. (Flashlight)
 - [x] Fake Wifi [See why I haven't done it](https://twitter.com/ThorinDev/status/719518261205995522)
 - [ ] Snake; There is a source code online, I can't get it to compile though.
+- [ ] Pancake Flipper
