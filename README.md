@@ -1,8 +1,6 @@
 # MicroBit
----
 A collection of Microbits programs. These were made by me (Chris)
 ##Projects
----
 ###Add more projects.
 - [x] Hello World
 - [x] Happy or Sad
